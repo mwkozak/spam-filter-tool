@@ -1,5 +1,5 @@
-var clientId = '74898515690-g2k3vcc67b0ntb09shr6akg9o8ecpbb2.apps.googleusercontent.com';
-var apiKey = 'AIzaSyAdzlHG0OSBMM_WFfHsjbKg760We3S8R54';
+var clientId = '656131812915-v80ae8csklbllai95jrslkc99p92qbj2.apps.googleusercontent.com';
+var apiKey = 'AIzaSyAPzhOgSJ-zjvCP4E4D_qRbeihPJvU1ZoY';
 var scopes = 'https://www.googleapis.com/auth/analytics.readonly https://www.googleapis.com/auth/analytics.manage.users.readonly https://www.googleapis.com/auth/analytics.edit';
 
 function handleClientLoad() {
